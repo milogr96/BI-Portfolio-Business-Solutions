@@ -27,5 +27,3 @@ Welcome! This repository showcases a series of Business Intelligence projects de
 * **Data Modeling:** Star Schema, DAX (Calculated Measures & Columns).
 * **Visualization:** Power BI Desktop (Bookmarks, Tooltips, Drill-through).
   
-
-**Contact:** Camilo Garcia Rojas – https://www.linkedin.com/in/camilodata/
